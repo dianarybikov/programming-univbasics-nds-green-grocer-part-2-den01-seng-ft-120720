@@ -67,4 +67,3 @@ if total > 100
 end
 total
 end 
-end
